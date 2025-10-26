@@ -1,0 +1,12 @@
+added
+.airvent
+.bkglog
+
+to main.css
+
+used motage to tile the equip.jpg (and simolar for airvent.jpg) image. Needed for variation in different web browsers MS ie is really dumb.
+
+montage equip\ copy\ 2.jpg equip\ copy\ 3.jpg equip\ copy\ 4.jpg equip\ copy\ 5.jpg -geometry +2+2 equip.jpg
+
+More compact syntax using single image and duplicating it.
+montage optical_systems.jpg -duplicate 4 -tile 2x2 -geometry +0+0 result.jpg

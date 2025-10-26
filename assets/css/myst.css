@@ -1,0 +1,54 @@
+body {
+  background-color: gold;
+}
+h1 {
+  text-align: center;
+  color: slategrey;
+  font-family: courier;
+  font-size: 300%;
+  margin-bottom: 100px;
+}
+p {
+  margin-left: 150px;
+  margin-right: 150px;
+  color: slategrey;
+  font-family: courier;
+  font-size: 150%;
+//  border: 1px solid grey;
+//  padding: 30px;
+  margin: 20px 10;
+}
+
+#p01{
+  color: slategrey;
+  font-family: courier;
+  font-size: 100%;
+}
+#p02 {
+  color: chocolate;
+}
+
+ /* unvisited link */
+a:link {
+  color: slategrey;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+.boxed {
+  border: 1px solid green ;
+}
+

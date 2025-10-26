@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="Data Collector Hardware.svg"
+   inkscape:export-filename="/Users/durrans/Google Drive/CSL Project/Project Meetings/Weekly Meeting Minutes/Documentation/ppt/Data Collector Hardware.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1076"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#8e0067;stroke-width:1pt;stroke-opacity:0.99215686;fill:#8e0067;fill-opacity:0.99215686"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1082"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#8e0067;stroke-opacity:0.99215686;fill:#8e0067;fill-opacity:0.99215686"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="394.57945"
+     inkscape:cy="526.32185"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1412"
+     inkscape:window-height="855"
+     inkscape:window-x="28"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <g
+       id="g1019"
+       transform="translate(24.695704,7.2964583)">
+      <g
+         id="g917">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:0.99215686;stroke:#ff2f29;stroke-width:1.11116076;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+           id="rect818"
+           width="9.1799393"
+           height="42.047153"
+           x="38.729572"
+           y="132.10454" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:0.99215686;stroke:#ff2f29;stroke-width:3.54795027;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+           id="rect816"
+           width="29.143232"
+           height="28.244528"
+           x="39.998756"
+           y="99.126808" />
+        <rect
+           y="131.97849"
+           x="60.708508"
+           height="42.047153"
+           width="9.1799393"
+           id="rect822"
+           style="opacity:1;fill:none;fill-opacity:0.99215686;stroke:#ff2f29;stroke-width:1.11116076;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.34554672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18106444"
+           x="49.348053"
+           y="115.43313"
+           id="text826"
+           transform="scale(1.0157848,0.98446049)"><tspan
+             sodipodi:role="line"
+             id="tspan824"
+             x="49.348053"
+             y="115.43313"
+             style="stroke-width:0.18106444">DAC</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.34554672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18106444"
+           x="-156.65939"
+           y="50.910507"
+           id="text830"
+           transform="matrix(0.04474159,-0.98350505,1.014799,0.04336186,0,0)"
+           inkscape:transform-center-x="-2.6192414"
+           inkscape:transform-center-y="-0.37417734"><tspan
+             sodipodi:role="line"
+             id="tspan828"
+             x="-156.65939"
+             y="50.910507"
+             style="stroke-width:0.18106444">HDD</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.34554672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18106444"
+           x="-156.64249"
+           y="70.481552"
+           id="text834"
+           transform="matrix(0.02999531,-0.98403119,1.0153418,0.02907033,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan832"
+             x="-156.64249"
+             y="70.481552"
+             style="stroke-width:0.18106444">HDD</tspan></text>
+      </g>
+      <g
+         transform="translate(31.158871,-0.12605286)"
+         id="g937">
+        <rect
+           y="132.10454"
+           x="38.729572"
+           height="42.047153"
+           width="9.1799393"
+           id="rect919"
+           style="opacity:1;fill:none;fill-opacity:0.99215686;stroke:#ff2f29;stroke-width:1.11116076;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686" />
+        <rect
+           y="99.126808"
+           x="39.998756"
+           height="28.244528"
+           width="29.143232"
+           id="rect921"
+           style="opacity:1;fill:none;fill-opacity:0.99215686;stroke:#ff2f29;stroke-width:3.54795027;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:0.99215686;stroke:#ff2f29;stroke-width:1.11116076;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+           id="rect923"
+           width="9.1799393"
+           height="42.047153"
+           x="60.708508"
+           y="131.97849" />
+        <text
+           transform="scale(1.0157848,0.98446049)"
+           id="text927"
+           y="115.43313"
+           x="49.348053"
+           style="font-style:normal;font-weight:normal;font-size:4.34554672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18106444"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.18106444"
+             y="115.43313"
+             x="49.348053"
+             id="tspan925"
+             sodipodi:role="line">DAC</tspan></text>
+        <text
+           inkscape:transform-center-y="-0.37417734"
+           inkscape:transform-center-x="-2.6192414"
+           transform="matrix(0.04474159,-0.98350505,1.014799,0.04336186,0,0)"
+           id="text931"
+           y="50.910507"
+           x="-156.65939"
+           style="font-style:normal;font-weight:normal;font-size:4.34554672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18106444"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.18106444"
+             y="50.910507"
+             x="-156.65939"
+             id="tspan929"
+             sodipodi:role="line">HDD</tspan></text>
+        <text
+           transform="matrix(0.02999531,-0.98403119,1.0153418,0.02907033,0,0)"
+           id="text935"
+           y="70.481552"
+           x="-156.64249"
+           style="font-style:normal;font-weight:normal;font-size:4.34554672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18106444"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.18106444"
+             y="70.481552"
+             x="-156.64249"
+             id="tspan933"
+             sodipodi:role="line">HDD</tspan></text>
+      </g>
+      <g
+         id="g957"
+         transform="translate(62.317742,-0.25210572)">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:0.99215686;stroke:#ff2f29;stroke-width:1.11116076;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+           id="rect939"
+           width="9.1799393"
+           height="42.047153"
+           x="38.729572"
+           y="132.10454" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:0.99215686;stroke:#ff2f29;stroke-width:3.54795027;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+           id="rect941"
+           width="29.143232"
+           height="28.244528"
+           x="39.998756"
+           y="99.126808" />
+        <rect
+           y="131.97849"
+           x="60.708508"
+           height="42.047153"
+           width="9.1799393"
+           id="rect943"
+           style="opacity:1;fill:none;fill-opacity:0.99215686;stroke:#ff2f29;stroke-width:1.11116076;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.34554672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18106444"
+           x="49.348053"
+           y="115.43313"
+           id="text947"
+           transform="scale(1.0157848,0.98446049)"><tspan
+             sodipodi:role="line"
+             id="tspan945"
+             x="49.348053"
+             y="115.43313"
+             style="stroke-width:0.18106444">DAC</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.34554672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18106444"
+           x="-156.65939"
+           y="50.910507"
+           id="text951"
+           transform="matrix(0.04474159,-0.98350505,1.014799,0.04336186,0,0)"
+           inkscape:transform-center-x="-2.6192414"
+           inkscape:transform-center-y="-0.37417734"><tspan
+             sodipodi:role="line"
+             id="tspan949"
+             x="-156.65939"
+             y="50.910507"
+             style="stroke-width:0.18106444">HDD</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.34554672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18106444"
+           x="-156.64249"
+           y="70.481552"
+           id="text955"
+           transform="matrix(0.02999531,-0.98403119,1.0153418,0.02907033,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan953"
+             x="-156.64249"
+             y="70.481552"
+             style="stroke-width:0.18106444">HDD</tspan></text>
+      </g>
+      <g
+         transform="translate(93.476613,-0.37815858)"
+         id="g977">
+        <rect
+           y="132.10454"
+           x="38.729572"
+           height="42.047153"
+           width="9.1799393"
+           id="rect959"
+           style="opacity:1;fill:none;fill-opacity:0.99215686;stroke:#ff2f29;stroke-width:1.11116076;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686" />
+        <rect
+           y="99.126808"
+           x="39.998756"
+           height="28.244528"
+           width="29.143232"
+           id="rect961"
+           style="opacity:1;fill:none;fill-opacity:0.99215686;stroke:#ff2f29;stroke-width:3.54795027;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:0.99215686;stroke:#ff2f29;stroke-width:1.11116076;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+           id="rect963"
+           width="9.1799393"
+           height="42.047153"
+           x="60.708508"
+           y="131.97849" />
+        <text
+           transform="scale(1.0157848,0.98446049)"
+           id="text967"
+           y="115.43313"
+           x="49.348053"
+           style="font-style:normal;font-weight:normal;font-size:4.34554672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18106444"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.18106444"
+             y="115.43313"
+             x="49.348053"
+             id="tspan965"
+             sodipodi:role="line">DAC</tspan></text>
+        <text
+           inkscape:transform-center-y="-0.37417734"
+           inkscape:transform-center-x="-2.6192414"
+           transform="matrix(0.04474159,-0.98350505,1.014799,0.04336186,0,0)"
+           id="text971"
+           y="50.910507"
+           x="-156.65939"
+           style="font-style:normal;font-weight:normal;font-size:4.34554672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18106444"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.18106444"
+             y="50.910507"
+             x="-156.65939"
+             id="tspan969"
+             sodipodi:role="line">HDD</tspan></text>
+        <text
+           transform="matrix(0.02999531,-0.98403119,1.0153418,0.02907033,0,0)"
+           id="text975"
+           y="70.481552"
+           x="-156.64249"
+           style="font-style:normal;font-weight:normal;font-size:4.34554672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18106444"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.18106444"
+             y="70.481552"
+             x="-156.64249"
+             id="tspan973"
+             sodipodi:role="line">HDD</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.15208866;stroke:#2933ff;stroke-width:3.92203355;stroke-miterlimit:4;stroke-dasharray:23.53220091, 3.92203348;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       id="rect1021"
+       width="164.65515"
+       height="116.01213"
+       x="44.518528"
+       y="91.755165" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.15208866;stroke:#28001d;stroke-width:2.36500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       id="rect1023"
+       width="37.043556"
+       height="13.096207"
+       x="63.610146"
+       y="187.74022" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.719513"
+       y="192.79161"
+       id="text1027"><tspan
+         sodipodi:role="line"
+         id="tspan1025"
+         x="70.719513"
+         y="198.40987"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="85.686615"
+       y="192.60452"
+       id="text1031"><tspan
+         sodipodi:role="line"
+         id="tspan1029"
+         x="85.686615"
+         y="198.22278"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.416481"
+       y="195.59793"
+       id="text1035"><tspan
+         sodipodi:role="line"
+         id="tspan1033"
+         x="66.416481"
+         y="195.59793"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Gigabit Switch</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.15208866;stroke:#8e0067;stroke-width:2.36500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       id="rect1037"
+       width="78.203064"
+       height="12.534941"
+       x="111.13067"
+       y="187.92729" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="134.89093"
+       y="194.4754"
+       id="text1041"><tspan
+         sodipodi:role="line"
+         id="tspan1039"
+         x="134.89093"
+         y="194.4754"
+         style="stroke-width:0.26458332">Power Supply</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1047"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion1049"><rect
+           id="rect1051"
+           width="40.305088"
+           height="57.27565"
+           x="178.89801"
+           y="35.68232" /></flowRegion><flowPara
+         id="flowPara1053" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:0.99215686;stroke:none;stroke-width:0.26458332;"
+       x="77.367134"
+       y="102.0536"
+       id="text1385"><tspan
+         sodipodi:role="line"
+         id="tspan1383"
+         x="77.367134"
+         y="102.0536"
+         style="font-size:8.46666622px;fill:#aa0000;fill-opacity:0.99215686;stroke-width:0.26458332;">DAC array datasheet  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="44.714191"
+       y="218.23567"
+       id="text888"><tspan
+         sodipodi:role="line"
+         x="44.714191"
+         y="218.23567"
+         style="fill:#4d4d4d;stroke-width:0.26458332"
+         id="tspan900">Four node DAC cluster*: 8-core/16-core, 64GB/128GB RAM, 28TB**/56TB </tspan><tspan
+         sodipodi:role="line"
+         x="44.714191"
+         y="223.52734"
+         style="fill:#4d4d4d;stroke-width:0.26458332"
+         id="tspan912">HDD, 400Mbps/4Gbps - aggregated cluster capacities. 2-4 gateways,</tspan><tspan
+         sodipodi:role="line"
+         x="44.714191"
+         y="228.819"
+         style="fill:#4d4d4d;stroke-width:0.26458332"
+         id="tspan916">100-500 IoT motes. Online analytics, visualisation, datawarehousing,</tspan><tspan
+         sodipodi:role="line"
+         x="44.714191"
+         y="234.11067"
+         style="fill:#4d4d4d;stroke-width:0.26458332"
+         id="tspan922">datamining, machine learning.</tspan><tspan
+         sodipodi:role="line"
+         x="44.714191"
+         y="239.40234"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke-width:0.26458332"
+         id="tspan924">*For individual DAC pricing please refer to the info section.</tspan><tspan
+         sodipodi:role="line"
+         x="44.714191"
+         y="244.694"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke-width:0.26458332"
+         id="tspan914">** Stable Storage</tspan></text>
+  </g>
+</svg>
